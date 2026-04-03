@@ -98,6 +98,9 @@ Like Strong but less text on screen
 
 ## Sleep
 No templates
+Time in bed
+REM/Non-REM synced from a smartwatch
+- Unsure if evidence-based.
 
 # Future
 ## Mood
