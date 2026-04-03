@@ -1,4 +1,9 @@
 # Version 1
+## Choose language/framework?
+### Kotlin
+### ReactNative
+### Flutter
+
 ## Make sure it works first
 ### Manual Logging
 - Workouts
