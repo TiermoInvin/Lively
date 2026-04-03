@@ -2,8 +2,9 @@
 ## Possible Names
 - .fits
 - .fit
-- fitu
-- ufit
+- .fitu
+- .ufit
+- .3f
 - .log
 - .logd
 - .off
