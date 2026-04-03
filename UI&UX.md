@@ -45,13 +45,21 @@ Still need to draw it out.
 10. Save on device, Self-host, or Sync with Cloud Provider
 
 # Pages
+
 ## Page Template
+
 ### Top
-Progress towards goal
+Settings Icon Top Right
 
 ### Middle
-Create New
-Templates
+Progress towards goal
+- Progress circles that are toggleable
+    - I don't know what the alternative would be though.
+- Heatmap Habit Tracker-type thing like with the GitHub streak thing
+- Horizontal Bar Chart
+
+"+/Add/New" Button
+- Highlighted, test between the three.
 
 ### Bottom
 Recent
@@ -62,13 +70,28 @@ History
 ## Homepage
 ### PRs
 ### Up Next
-- Progress circles that are toggleable
-    - I don't know what the alternative would be though.
-- Heatmap Habit Tracker-type thing like with the GitHub streak thing
+- Next scheduled workout
 ### Learn More
 
-## Exercise
 
+## Exercise
+"+ Add Workouts" Button 
+- Templates (depending on equipment and goals
+  - Pre-made
+    - Starting Strength
+    - Reddit's Recommended Routine
+    - Boring But Big
+    - PHUL
+    - Texas/Houston 5x5?
+    - Stronger By Science Free
+    - Boostcamp maybe?
+  - Create New
+- Custom/DIY
+
+## Active Workout
+Like Strong but less text on screen
+- Warmup sets get grouped
+- RPE/RIR is prompted once you finish a set
 
 ## Diet
 
