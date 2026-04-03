@@ -1,6 +1,7 @@
-# Livewell (name subject to change, no code yet, just ideas)
+# Livewell (no code yet, just ideas)
 FLOSS fitness (meals, workouts, and sleep) teacher, tracker, planner, and analyser. 
 
+Name subject to change, but this is the best I could come up with.
 Trying to make an app that helps improve people's health through fitness, sleep, and diet. Maybe even stress/mood.
 Our time is one of the most important resources and time is not promised, but we can take steps to improving our time on this Earth as well as prolong it.
 
