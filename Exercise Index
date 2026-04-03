@@ -1,4 +1,8 @@
 # Exercise Index
+
+## Downloadable/Customizable Indexes
+App has downloadable indexes for the different exercise types. This should be chosen by the user to prevent them from having unnecessary bloat. 
+
 ## Tags
 It might be pertinent to utilize tags for things as opposed to making them separate exercises. 
 
