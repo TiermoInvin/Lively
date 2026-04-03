@@ -27,7 +27,7 @@ For a 60 kg (132 lb) woman, the reference is a 96 kg squat (212 lb), a 60 kg ben
 Triceps and chest.
 
 ## [Pulling](Pulling.md)
-Back and arm flexors
+Back and arm flexors (biceps & brachioradialis)
 
 ## [Legs](Legs.md)
 Quads, Glutes, Hamstrings, Calves, and the Tibialis
