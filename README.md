@@ -5,8 +5,9 @@ Name subject to change, but this is the best I could come up with.
 Trying to make an app that helps improve people's health through fitness, sleep, and diet. Maybe even stress/mood.
 Our time is one of the most important resources and time is not promised, but we can take steps to improving our time on this Earth as well as prolong it.
 
-Hopefully going to work on phones and desktops, possibly also be accessible through the web  Mostly just ideas for now.
-Pulling inspiration from Macrofactor, Strong, and Strava.
+All-in-one app because I'm not a CS student and if you shoot for the stars, you might land on the moon.
+Hopefully going to work on phones and desktops, possibly also be accessible through the web.
+Pulling inspiration from Macrofactor, Strong, MyoAdapt, and Strava.
 
 
 # Feature Ideas
@@ -18,7 +19,7 @@ Pulling inspiration from Macrofactor, Strong, and Strava.
 - Exercise library with videos/diagrams and concise technique cues with explainations.
 
 # LiftLog
-- I want to suggest these changes to there as well, but this exists because Liam, the maintainer, doesn't intend to make it track diet as well, and that's completely understandable. This is highkey unrealistic but if you shoot for the stars, you might land on the moon.
+- I want to suggest these changes to there as well, but this exists because Liam, the maintainer, doesn't intend to make it track diet as well, and that's completely understandable. This is highkey unrealistic.
 
 # Macrofactor
 - They don't even combine functions, the Workout app is separate from the Diet App. Same with Renaissance Periodization.
