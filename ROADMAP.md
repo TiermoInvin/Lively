@@ -5,6 +5,8 @@
 ### Flutter
 
 ## Make sure it works first
+- Will only really focus on resistance training, cardio, and diet.
+
 ### Manual Logging
 - Workouts
 - Meals
@@ -15,7 +17,9 @@
 ## QOL Improvements
 
 # Future
-## Desktop and Linux Support for Phones 
+## Web, Desktop and Linux Phone Support 
+## Athlete Training
+- I just don't really know that much about it.
 ## Mood/Stress Tracking
 - Sort of like the one made by these Ivy League students that are in a sort of grid of coloured circles. Kind of like the political compass of emotions.
 - I can't find the source for this and I'm not even sure they're Ivy League students.
