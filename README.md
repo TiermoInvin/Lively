@@ -14,6 +14,7 @@ Pulling inspiration from Macrofactor, Strong, MyoAdapt, and Strava.
 - Backwards compatibility to older, unsupported devices so that people can make use of - what would other wise be - e-waste.
     - Maybe decreasing in features in order to accomodate them.
 - Premium features from other apps made open-source and free
+      - Strong Widgets
 - Import from Strong, Strava, Macrofactor, etc.
 - Export in plain-text (Markdown) and .csv or new FOSS file format specifically for fitness.
 - Exercise library with videos/diagrams and concise technique cues with explainations.
