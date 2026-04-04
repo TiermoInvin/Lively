@@ -1,3 +1,8 @@
+# notes
+- Market is much more busy than I thought it was.
+- refer to [[UI&UX Comparison.md]]
+
+
 Workouts should be like Strong because I think it's pretty ubiquitous and a generally decent experience. LiftLog's feels like a hurdle new users need to overcome if they move.
 
 Still need to draw it out.
