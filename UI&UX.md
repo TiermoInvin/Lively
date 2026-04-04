@@ -22,6 +22,7 @@ Still need to draw it out.
    - Both
        - Powerbuilding
        - Hybrid Training
+       - General Strength / "Functional Training"
    - Athleticism
        - Sports
            - Team
