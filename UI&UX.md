@@ -71,7 +71,12 @@ History
 - Transitions to calendar
 
 ## Homepage
-### PRs
+### Weight
+### Pinned 
+#### Meals
+#### Body Measurements/Statistics
+#### PRs
+- Things that are important to the person (adjustable) 
 ### Up Next
 - Next scheduled workout
 ### Learn More
@@ -86,8 +91,11 @@ History
     - Boring But Big
     - PHUL
     - Texas/Houston 5x5?
-    - Stronger By Science Free
-    - Boostcamp maybe?
+    - Free Programs from the web
+        - Boostcamp maybe but unlikely?
+        - Dr Pak
+        - Dr Milo
+        - etc. 
   - Create New
       - Personalized
       - Custom
