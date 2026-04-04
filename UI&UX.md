@@ -86,6 +86,8 @@ History
     - Stronger By Science Free
     - Boostcamp maybe?
   - Create New
+      - Personalized
+      - Custom
 - Custom/DIY
 
 ## Active Workout
