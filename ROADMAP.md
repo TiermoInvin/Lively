@@ -9,6 +9,27 @@
 
 ### Manual Logging
 - Workouts
+    - Routine/Template Name
+        - Notes
+    - Exercise Name
+        - Notes
+            - Universal
+            - Persists
+            - Temporary   
+        - Resistance Training
+          - Sets
+              - **Warmup**
+              - Drop
+              - Down
+              - Myoreps
+              - Giant
+              - **Super**/Grouped/Circuits
+              - **Failure**
+          - Reps
+              - Quick adjust and numpad like in Strong
+        - Cardio
+            - 
+        - RPE (RIR is not subjective? what's the difference?)
 - Meals
 - Sleep
 
