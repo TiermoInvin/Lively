@@ -2,13 +2,13 @@
 FLOSS, self-hostable, and privacy-respecting fitness (meals, workouts, and sleep) teacher, tracker, planner, and analyser. 
 
 Name subject to change, but this is the best I could come up with.
-Trying to make an app that helps improve people's health through fitness, sleep, and diet. Maybe even stress/mood.
-Our time is one of the most important resources and time is not promised, but we can take steps to improving our time on this Earth as well as prolong it.
 
-All-in-one app because I'm not a CS student and if you shoot for the stars, you might land on the moon.
-Hopefully going to work on phones and desktops, possibly also be accessible through the web.
-Pulling inspiration from Macrofactor, Strong, MyoAdapt, and Strava.
+Trying to make an app that helps improve people's health through fitness, sleep, and diet. Maybe even stress/mood. Think Strong + Strava + Macrofactor/Cronometer.
 
+Our time is one of the most important resources and time is not promised, however, we can take steps to improving our time on this Earth as well as prolong it.
+
+All-in-one app because I'm not a CS student and if you shoot for the stars, you might land on the moon. Recipe for disaster, maybe, and very conscious of feature creep likely going to be a problem with this.
+Hopefully going to work on phone-focused for now but hopefully going to work on the web as well as desktops.
 
 # Feature Ideas
 - Backwards compatibility to older, unsupported devices so that people can make use of - what would other wise be - e-waste.
