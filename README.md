@@ -21,7 +21,7 @@ Hopefully going to work on phone-focused for now but hopefully going to work on 
 - Calisthenics Strength Progression, skill tree style.
 
 # LiftLog
-- I want to suggest these changes to there as well, but this exists because Liam, the maintainer, doesn't intend to make it track diet as well, and that's completely understandable. This is highkey unrealistic.
+- I want to suggest these changes to there as well, but this exists because Liam, the maintainer, doesn't intend to make it track running or diet as well, and that's completely understandable. This is highkey unrealistic.
 
 # Macrofactor
 - They don't even combine functions, the Workout app is separate from the Diet App. Same with Renaissance Periodization.
