@@ -9,27 +9,59 @@
 
 ### Manual Logging
 - Workouts
+    - Date (dd/mm/yyyy)
+	- Duration
+        - Only save start and end time for efficiency? Or save duration as well?
     - Routine/Template Name
-        - Notes
-    - Exercise Name
         - Notes
             - Universal
             - Persists
-            - Temporary   
-        - Resistance Training
-          - Sets
-              - **Warmup**
-              - Drop
-              - Down
-              - Myoreps
-              - Giant
-              - **Super**/Grouped/Circuits
-              - **Failure**
-          - Reps
-              - Quick adjust and numpad like in Strong
-        - Cardio
-            - 
-        - RPE (RIR is not subjective? what's the difference?)
+            - Temporary 
+    - Contents of Workout
+        - Exercise Name
+            - Notes
+                - Universal
+                - Persists
+                - Temporary   
+            - Resistance Training
+                - Sets
+                    - **Warmup**
+                    - **Superset**
+                    - **Failure**
+                - Reps
+                    - Quick adjust and numpad like in Strong
+                    - Copies to all sets
+                - Rest Time
+                    - Copies to all sets
+            - Cardio
+                - Duration
+                - Distance
+                - Pace
+                - Calories
+            - RPE (RIR is not subjective? what's the difference?)
+          - REPEAT
+
+**IN PROGRESS**
+				- rest times
+				- E.g. = 1, 
+			- cardio/sports
+				- Type
+					- Endurance
+					- Explosive
+					- Tempo
+						- rest times?
+					- Recovery
+					- Leisure
+				- distance
+				- pace
+				- bpm
+				- o2?
+				- RPE equivalent
+		- REPEAT
+		- Calories Spent
+	- Pictures of your Workout like in Strava OR a link to your picture saved as a different file if you were to download your workout logs.
+
+
 - Meals
 - Sleep
 
