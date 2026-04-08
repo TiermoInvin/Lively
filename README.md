@@ -11,6 +11,7 @@ All-in-one app because I'm not a CS student and if you shoot for the stars, you 
 Phone-focused for now but hopefully going to work on the web as well as desktops.
 
 # Feature Ideas
+- Utilizing open-source projects in order to not need to reinvent the wheel.
 - Backwards compatibility to older, unsupported devices so that people can make use of - what would other wise be - e-waste.
     - Maybe decreasing in features in order to accomodate them.
 - Premium features from other apps made open-source and free
@@ -28,3 +29,4 @@ Phone-focused for now but hopefully going to work on the web as well as desktops
 
 # Distant Future
 - Make a nonprofit foundation for this.
+
