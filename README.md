@@ -1,4 +1,4 @@
-# Livewell (no code yet, just ideas)
+# Livewell (no code yet, just ideas in Wiki)
 FLOSS, self-hostable, and privacy-respecting fitness (meals, workouts, and sleep) teacher, tracker, planner, and analyser. 
 
 Name subject to change, but this is the best I could come up with.
