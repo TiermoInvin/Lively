@@ -4,6 +4,8 @@
 ### ReactNative
 ### Flutter
 
+# Need to compile a list of projects to somehow integrate them together.
+
 ## Make sure it works first
 - Will only really focus on resistance training, cardio, and diet.
 
@@ -70,8 +72,10 @@
 ## QOL Improvements
 
 # Future
+# 
 ## Web, Desktop and Linux Phone Support 
 ## Athlete Training
+- This is basically training for
 - I just don't really know that much about it.
 ## Mood/Stress Tracking
 - Sort of like the one made by these Ivy League students that are in a sort of grid of coloured circles. Kind of like the political compass of emotions.
@@ -82,3 +86,6 @@
 - Swift - iOS
 - Kotlin - Android
 - C++ - MacOS, Windows, and Linux.
+
+# Trainer and Athlete Connections
+- Setting up profiles for trainers to use and coach their clients?
